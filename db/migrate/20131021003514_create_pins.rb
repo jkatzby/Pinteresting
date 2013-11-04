@@ -4,6 +4,7 @@ class CreatePins < ActiveRecord::Migration
       t.string :description
 
       t.timestamps
+      
     end
   end
 end
